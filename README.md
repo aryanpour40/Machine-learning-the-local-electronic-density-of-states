@@ -36,7 +36,7 @@ The LDOS data files are binary and can be easily loaded using np.fromfile() or n
 
 Shape: The LDOS data is structured as a 2D array with shape (Number of Atoms, 389), where 389 corresponds to the energy levels used in the Density Functional Theory (DFT) calculations.
 
-Jupyter Notebooks
+Jupyter Notebooks:
 Each folder contains a corresponding Jupyter notebook file:
 
 Set_A.ipynb: Notebook for processing and training models using data from Folder A.
