@@ -1,5 +1,5 @@
 Data Statement
-This repository contains data from the PRB paper "Locally Machine-Learnability of Density of States". The data is organized into three main folders: A and C, each of which includes data from different sources. The contents include training and testing XYZ files, corresponding LDOS files in binary format, and Jupyter notebooks that guide you through the data processing and model training steps.
+This repository contains data from the PRB paper "Machine learning the local electronic density of states". The data is organized into three main folders: A and C, each of which includes data from different sources. The contents include training and testing XYZ files, corresponding LDOS files in binary format, and Jupyter notebooks that guide you through the data processing and model training steps.
 
 Folder Structure
 Folder A: Data from DOI: 10.1103/PhysRevB.102.235130
