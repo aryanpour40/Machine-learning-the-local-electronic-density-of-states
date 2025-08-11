@@ -2,6 +2,7 @@ This repository contains data from the PRB paper "Machine learning the local ele
 
 Folder Structure:
 
+
 Folder A: Data from DOI: 10.1103/PhysRevB.102.235130
 
 Contains:
