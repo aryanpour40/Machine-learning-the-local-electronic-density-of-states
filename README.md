@@ -45,7 +45,7 @@ Set_C.ipynb: Notebook for processing and training models using data from Folder 
 
 These notebooks contain detailed instructions for data preprocessing, base model training, and evaluation. The code is written in Python, using libraries such as NumPy, SciPy, Matplotlib, and rascal.
 
-Citation Information
+Citation Information:
 Folder A: Data adapted from the paper "C. Ben Mahmoud, A. Anelli, G. Csányi, and M. Ceriotti, Learning the electronic density of states in condensed matter, Phys. Rev. B 102, 235130 (2020).".
 
 Folder C: Data adapted from the "NOMAD: A distributed web-based platform for managing materials science research data", https://joss.theoj.org/papers/10.21105/joss.05388.
