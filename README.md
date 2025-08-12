@@ -46,24 +46,9 @@ The code is written in Python using libraries such as **NumPy**, **SciPy**, **Ma
 
 ### Citation Information
 
-* **Folder A**: Data adapted from the paper "[Hybrid functional calculations of local density of states in materials](https://doi.org/10.1103/PhysRevB.102.235130)".
-* **Folder C**: Data adapted from the paper "[JOSS: A Python Library for Data Processing](https://doi.org/10.21105/joss.05388)".
-
-### License
-
-This dataset is made available under the [MIT License](LICENSE), which allows for reuse, modification, and redistribution, provided that appropriate credit is given.
+* **Folder A**: Data adapted from the paper "[Learning the electronic density of states in condensed matter](https://doi.org/10.1103/PhysRevB.102.235130)".
+* **Folder C**: Data adapted from the paper "[NOMAD: A distributed web-based platform for managing materials science research data](https://doi.org/10.21105/joss.05388)".
 
 ### Acknowledgments
 
 We thank the authors of the original datasets for making their data publicly available, enabling this work. All rights to the data remain with the original authors.
-
----
-
-### Key Points:
-
-* **Data Folders**: Organized by source (A and C).
-* **Jupyter Notebooks**: Provided for data processing and model training.
-* **Clear Citations**: With DOI links for each dataset.
-* **License**: MIT for ease of use and redistribution.
-
-This **data statement** provides clear structure and context for the datasets, explaining what each folder contains, how it can be used, and acknowledging the sources. This is suitable for **GitHub**, where users will be able to quickly understand the dataset and how to use it.
