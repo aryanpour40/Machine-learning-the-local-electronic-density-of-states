@@ -47,7 +47,7 @@ The code is written in Python using libraries such as **NumPy**, **SciPy**, **Ma
 ### Citation Information
 
 * **Folder A**: Data adapted from the paper "[Learning the electronic density of states in condensed matter](https://doi.org/10.1103/PhysRevB.102.235130)".
-* **Folder C**: Data adapted from the paper "[NOMAD: A distributed web-based platform for managing materials science research data](https://doi.org/10.21105/joss.05388)".
+* **Folder C**: Data adapted from "[NOMAD: A distributed web-based platform for managing materials science research data](https://doi.org/10.21105/joss.05388)".
 
 ### Acknowledgments
 
